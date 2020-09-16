@@ -34,5 +34,6 @@ def return_string_array(array)
   while counter < array.length do
     puts array[0].to_s
     counter +=1
+    return array[0].to_s
    end
 end
