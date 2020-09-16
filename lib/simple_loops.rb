@@ -19,8 +19,7 @@ def loop_message_n_times(message, num)
   end
 end
  
- 
-  
+
 def output_array(message, num)
   counter = 0 
   while counter < num.count do 
