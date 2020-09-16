@@ -22,7 +22,7 @@ end
 
 def output_array(message, num)
   counter = 0 
-  while counter < num.to_i.count do 
+  while counter < num do 
     puts message
     counter +=1
   end
