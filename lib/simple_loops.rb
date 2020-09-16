@@ -21,7 +21,12 @@ end
  
  
   
-def output_array
+def output_array(message, num)
+  counter = 0 
+    while counter < (num)
+    puts message
+    counter +=1
+  end
   
 end
  
