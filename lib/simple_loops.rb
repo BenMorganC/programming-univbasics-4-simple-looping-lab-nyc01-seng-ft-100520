@@ -16,6 +16,7 @@ def loop_message_n_times(message, num)
     while counter < (num)
     puts message
     counter +=1
+  end
 end
  
  
