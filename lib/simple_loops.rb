@@ -28,8 +28,7 @@ def output_array(message)
   end
 end
  
- 
-  
+
 def return_string_array
 
 end
